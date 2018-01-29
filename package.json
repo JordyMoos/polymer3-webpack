@@ -6,7 +6,7 @@
         "start": "dotnet fable yarn-run webpack-dev-server"
     },
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "public/index.html",
     "license": "MIT",
     "dependencies": {
         "@polymer/paper-button": "^3.0.0-pre.6"
