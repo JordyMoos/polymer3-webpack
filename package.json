@@ -2,7 +2,8 @@
     "name": "elmish-polymer",
     "flat": true,
     "scripts": {
-        "build": "dotnet fable yarn-run webpack -p",
+        "build": "dotnet fable yarn-run webpack-p",
+        "webpack-p": "webpack -p",
         "start": "dotnet fable yarn-run webpack-dev-server"
     },
     "version": "1.0.0",
