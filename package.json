@@ -1,5 +1,5 @@
 {
-    "name": "elmish-polymer",
+    "name": "polymer3-webpack",
     "flat": true,
     "scripts": {
         "build": "webpack -p",
