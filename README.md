@@ -1,4 +1,4 @@
-# elmish-polymer
+# polymer3-webpack
 ```
 yarn install
 yarn build
