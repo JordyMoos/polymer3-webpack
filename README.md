@@ -1,10 +1,7 @@
 # elmish-polymer
 ```
 yarn install
-dotnet restore
-yarn start
+yarn build
 ```
-```
-open http://localhost:8080
-```
-look for "iron-a11y-keys-behavior.js:258 Uncaught ReferenceError: Polymer is not defined" error in the console
+look for "ERROR in bundle.js from UglifyJs
+Unexpected token: name (Polymer) [bundle.js:73,4]" error in the console
